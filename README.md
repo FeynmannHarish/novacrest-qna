@@ -1,2 +1,2 @@
 # novacrest-qna
-Aurora RAG
+NovaCrest RAG
